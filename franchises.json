@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Super Sentai",
+    "icon": "/icons/series/default.png",
+    "series": [
+      {
+        "name": "Himitsu Sentai Gorenger",
+        "icon": "/icons/series/logoicon_Gorenger.png",
+        "code": "himitsu-sentai-gorenger"
+      },
+      {
+        "name": "J.A.K.Q. Dengekitai",
+        "icon": "/icons/series/logoicon_JAKQ.png",
+        "code": "j-a-k-q-dengekitai"
+      },
+      {
+        "name": "Battle Fever J",
+        "icon": "/icons/series/logoicon_BattleFever.png",
+        "code": "battle-fever-j"
+      },
+      {
+        "name": "Denshi Sentai Denziman",
+        "icon": "/icons/series/logoicon_Denziman.png",
+        "code": "denshi-sentai-denziman"
+      },
+      {
+        "name": "Taiyo Sentai Sun Vulcan",
+        "icon": "/icons/series/logoicon_SunVulcan.png",
+        "code": "taiyo-sentai-sun-vulcan"
+      },
+      {
+        "name": "Dai Sentai Goggle V",
+        "icon": "/icons/series/default.png",
+        "code": "dai-sentai-goggle-v"
+      },
+      {
+        "name": "Kagaku Sentai Dynaman",
+        "icon": "/icons/series/logoicon_Dynaman.png",
+        "code": "kagaku-sentai-dynaman"
+      },
+      {
+        "name": "Chōdenshi Bioman",
+        "icon": "/icons/series/logoicon_Bioman.png",
+        "code": "ch-denshi-bioman"
+      },
+      {
+        "name": "Dengeki Sentai Changeman",
+        "icon": "/icons/series/logoicon_Changeman.png",
+        "code": "dengeki-sentai-changeman"
+      },
+      {
+        "name": "Chōshinsei Flashman",
+        "icon": "/icons/series/logoicon_Flashman.png",
+        "code": "ch-shinsei-flashman"
+      },
+      {
+        "name": "Hikari Sentai Maskman",
+        "icon": "/icons/series/logoicon_Maskman.png",
+        "code": "hikari-sentai-maskman"
+      },
+      {
+        "name": "Chōjū Sentai Liveman",
+        "icon": "/icons/series/logoicon_Liveman.png",
+        "code": "ch-j-sentai-liveman"
+      },
+      {
+        "name": "Kōsoku Sentai Turboranger",
+        "icon": "/icons/series/logoicon_Turboranger.png",
+        "code": "k-soku-sentai-turboranger"
+      },
+      {
+        "name": "Chikyū Sentai Fiveman",
+        "icon": "/icons/series/logoicon_Fiveman.png",
+        "code": "chiky-sentai-fiveman"
+      },
+      {
+        "name": "Chōjin Sentai Jetman",
+        "icon": "/icons/series/logoicon_Jetman.png",
+        "code": "ch-jin-sentai-jetman"
+      },
+      {
+        "name": "Kyōryū Sentai Zyuranger",
+        "icon": "/icons/series/logoicon_Zyuranger.png",
+        "code": "ky-ry-sentai-zyuranger"
+      },
+      {
+        "name": "Gosei Sentai Dairanger",
+        "icon": "/icons/series/logoicon_Dairanger.png",
+        "code": "gosei-sentai-dairanger"
+      },
+      {
+        "name": "Ninja Sentai Kakuranger",
+        "icon": "/icons/series/logoicon_Kakuranger.png",
+        "code": "ninja-sentai-kakuranger"
+      },
+      {
+        "name": "Chōriki Sentai Ohranger",
+        "icon": "/icons/series/logoicon_Ohranger.png",
+        "code": "ch-riki-sentai-ohranger"
+      },
+      {
+        "name": "Gekisou Sentai Carranger",
+        "icon": "/icons/series/logoicon_carranger.png",
+        "code": "gekisou-sentai-carranger"
+      },
+      {
+        "name": "Denji Sentai Megaranger",
+        "icon": "/icons/series/logoicon_Megaranger.png",
+        "code": "denji-sentai-megaranger"
+      },
+      {
+        "name": "Seijuu Sentai Gingaman",
+        "icon": "/icons/series/logoicon_Gingaman.png",
+        "code": "seijuu-sentai-gingaman"
+      },
+      {
+        "name": "Kyūkyū Sentai GoGoFive",
+        "icon": "/icons/series/logoicon_gogofive.png",
+        "code": "ky-ky-sentai-gogofive"
+      },
+      {
+        "name": "Mirai Sentai Timeranger",
+        "icon": "/icons/series/logoicon_Timeranger.png",
+        "code": "mirai-sentai-timeranger"
+      },
+      {
+        "name": "Hyakujū Sentai Gaoranger",
+        "icon": "/icons/series/logoicon_Gaoanger.png",
+        "code": "hyakuj-sentai-gaoranger"
+      },
+      {
+        "name": "Ninpuu Sentai Hurricaneger",
+        "icon": "/icons/series/logoicon_Hurricanger.png",
+        "code": "ninpuu-sentai-hurricaneger"
+      },
+      {
+        "name": "Bakuryū Sentai Abaranger",
+        "icon": "/icons/series/logoicon_Abaranger.png",
+        "code": "bakury-sentai-abaranger"
+      },
+      {
+        "name": "Tokusou Sentai Dekaranger",
+        "icon": "/icons/series/logoicon_Dekaranger.png",
+        "code": "tokusou-sentai-dekaranger"
+      },
+      {
+        "name": "Mahō Sentai Magiranger",
+        "icon": "/icons/series/logoicon_Magiranger.png",
+        "code": "mah-sentai-magiranger"
+      },
+      {
+        "name": "Gōgō Sentai Boukenger",
+        "icon": "/icons/series/logoicon_boukenger.png",
+        "code": "g-g-sentai-boukenger"
+      },
+      {
+        "name": "Jūken Sentai Gekiranger",
+        "icon": "/icons/series/logoicon_Gekiranger.png",
+        "code": "j-ken-sentai-gekiranger"
+      },
+      {
+        "name": "Engine Sentai Go-onger",
+        "icon": "/icons/series/logoicon_Go-onger.png",
+        "code": "engine-sentai-go-onger"
+      },
+      {
+        "name": "Samurai Sentai Shinkenger",
+        "icon": "/icons/series/logoicon_Shinkenger.png",
+        "code": "samurai-sentai-shinkenger"
+      },
+      {
+        "name": "Tensou Sentai Goseiger",
+        "icon": "/icons/series/logoicon_goseiger.png",
+        "code": "tensou-sentai-goseiger"
+      },
+      {
+        "name": "Kaizoku Sentai Gokaiger",
+        "icon": "/icons/series/logoicon_Gokaiger.png",
+        "code": "kaizoku-sentai-gokaiger"
+      },
+      {
+        "name": "Tokumei Sentai Go-Busters",
+        "icon": "/icons/series/logoicon_Gobusters.png",
+        "code": "tokumei-sentai-go-busters"
+      },
+      {
+        "name": "Zyuden Sentai Kyoryuger",
+        "icon": "/icons/series/logoicon_Kyoryuger.png",
+        "code": "zyuden-sentai-kyoryuger"
+      },
+      {
+        "name": "Ressha Sentai ToQger",
+        "icon": "/icons/series/logoicon_Toqger.png",
+        "code": "ressha-sentai-toqger"
+      },
+      {
+        "name": "Shuriken Sentai Ninninger",
+        "icon": "logoiconninninger.png",
+        "code": "shuriken-sentai-ninninger"
+      },
+      {
+        "name": "Dōbutsu Sentai Zyuohger",
+        "icon": "/icons/series/default.png",
+        "code": "d-butsu-sentai-zyuohger"
+      },
+      {
+        "name": "Uchū Sentai Kyuranger",
+        "icon": "/icons/series/logoicon_Kyuranger.png",
+        "code": "uch-sentai-kyuranger"
+      },
+      {
+        "name": "Kaitō Sentai Lupinranger VS Keisatsu Sentai Patranger",
+        "icon": "/icons/series/logoicon_Lupinranger VS Pataranger.png",
+        "code": "kait-sentai-lupinranger-vs-keisatsu-sentai-patranger"
+      },
+      {
+        "name": "Kishiryu Sentai Ryusoulger",
+        "icon": "/icons/series/logoicon_Ryusoulger.png",
+        "code": "kishiryu-sentai-ryusoulger"
+      },
+      {
+        "name": "Mashin Sentai Kiramager",
+        "icon": "/icons/series/logoicon_Kiramager.png",
+        "code": "mashin-sentai-kiramager"
+      },
+      {
+        "name": "Kikai Sentai Zenkaiger",
+        "icon": "/icons/series/logoicon_Zenkaiger.png",
+        "code": "kikai-sentai-zenkaiger"
+      },
+      {
+        "name": "Avataro Sentai Donbrothers",
+        "icon": "/icons/series/logoicon_Donbrothers.png",
+        "code": "avataro-sentai-donbrothers"
+      },
+      {
+        "name": "Ohsama Sentai King-Ohger",
+        "icon": "/icons/series/logoicon_kingohger.png",
+        "code": "ohsama-sentai-king-ohger"
+      },
+      {
+        "name": "Bakuage Sentai Boonboomger",
+        "icon": "/icons/series/logoicon_Boonboomger.png",
+        "code": "bakuage-sentai-boonboomger"
+      },
+      {
+        "name": "No.1 Sentai Gozyuger",
+        "icon": "/icons/series/logoicon_gozyuger.png",
+        "code": "no-1-sentai-gozyuger"
+      }
+    ],
+    "code": "super-sentai"
+  },
+  {
+    "name": "Kamen Rider",
+    "icon": "/icons/series/default.png",
+    "series": [
+      {
+        "name": "Kamen Rider",
+        "icon": "/icons/series/default.png",
+        "code": "kamen-rider"
+      },
+      {
+        "name": "Kamen Rider V3",
+        "icon": "/icons/series/logoicon_Kamen Rider V3.png",
+        "code": "kamen-rider-v3"
+      },
+      {
+        "name": "Kamen Rider X",
+        "icon": "/icons/series/logoicon_Kamen Rider X.png",
+        "code": "kamen-rider-x"
+      },
+      {
+        "name": "Kamen Rider Amazon",
+        "icon": "/icons/series/logoicon_Kamen Rider Amazon.png",
+        "code": "kamen-rider-amazon"
+      },
+      {
+        "name": "Kamen Rider Stronger",
+        "icon": "/icons/series/logoicon_KR Stronger.png",
+        "code": "kamen-rider-stronger"
+      },
+      {
+        "name": "Kamen Rider (Skyrider)",
+        "icon": "/icons/series/logoicon_Skyrider.png",
+        "code": "kamen-rider-skyrider"
+      },
+      {
+        "name": "Kamen Rider Super-1",
+        "icon": "/icons/series/logoicon_Kamen Rider Super 1.png",
+        "code": "kamen-rider-super-1"
+      },
+      {
+        "name": "Kamen Rider ZX",
+        "icon": "/icons/series/default.png",
+        "code": "kamen-rider-zx"
+      },
+      {
+        "name": "Kamen Rider Black",
+        "icon": "/icons/series/logoicon_KR Black.png",
+        "code": "kamen-rider-black"
+      },
+      {
+        "name": "Kamen Rider Black RX",
+        "icon": "/icons/series/logoicon_Black RX.png",
+        "code": "kamen-rider-black-rx"
+      },
+      {
+        "name": "Kamen Rider Shin",
+        "icon": "/icons/series/logoicon_KR Shin.png",
+        "code": "kamen-rider-shin"
+      },
+      {
+        "name": "Kamen Rider ZO",
+        "icon": "/icons/series/logoicon_Kamen Rider ZO.png",
+        "code": "kamen-rider-zo"
+      },
+      {
+        "name": "Kamen Rider J",
+        "icon": "/icons/series/logoicon_Kamen Rider J.png",
+        "code": "kamen-rider-j"
+      },
+      {
+        "name": "Kamen Rider Kuuga",
+        "icon": "/icons/series/logoicon_Kuuga.png",
+        "code": "kamen-rider-kuuga"
+      },
+      {
+        "name": "Kamen Rider Agito",
+        "icon": "/icons/series/logoicon_Agito.png",
+        "code": "kamen-rider-agito"
+      },
+      {
+        "name": "Kamen Rider Ryuki",
+        "icon": "/icons/series/logoicon_Ryuki.png",
+        "code": "kamen-rider-ryuki"
+      },
+      {
+        "name": "Kamen Rider 555 (Faiz)",
+        "icon": "/icons/series/logoicon_Faiz 555.png",
+        "code": "kamen-rider-555-faiz"
+      },
+      {
+        "name": "Kamen Rider Blade",
+        "icon": "/icons/series/logoicon_Blade.png",
+        "code": "kamen-rider-blade"
+      },
+      {
+        "name": "Kamen Rider Hibiki",
+        "icon": "/icons/series/logoicon_Hibiki.png",
+        "code": "kamen-rider-hibiki"
+      },
+      {
+        "name": "Kamen Rider Kabuto",
+        "icon": "/icons/series/logoicon_Kabuto.png",
+        "code": "kamen-rider-kabuto"
+      },
+      {
+        "name": "Kamen Rider Den-O",
+        "icon": "/icons/series/logoicon_Den_O.png",
+        "code": "kamen-rider-den-o"
+      },
+      {
+        "name": "Kamen Rider Kiva",
+        "icon": "/icons/series/logoicon_Kiva.png",
+        "code": "kamen-rider-kiva"
+      },
+      {
+        "name": "Kamen Rider Decade",
+        "icon": "/icons/series/logoicon_Decade.png",
+        "code": "kamen-rider-decade"
+      },
+      {
+        "name": "Kamen Rider W",
+        "icon": "/icons/series/logoicon_W Double.png",
+        "code": "kamen-rider-w"
+      },
+      {
+        "name": "Kamen Rider OOO",
+        "icon": "/icons/series/logoicon_OOO.png",
+        "code": "kamen-rider-ooo"
+      },
+      {
+        "name": "Kamen Rider Fourze",
+        "icon": "/icons/series/logoicon_Fourze.png",
+        "code": "kamen-rider-fourze"
+      },
+      {
+        "name": "Kamen Rider Wizard",
+        "icon": "/icons/series/logoicon_Wizard.png",
+        "code": "kamen-rider-wizard"
+      },
+      {
+        "name": "Kamen Rider Gaim",
+        "icon": "/icons/series/logoicon_Gaim.png",
+        "code": "kamen-rider-gaim"
+      },
+      {
+        "name": "Kamen Rider Drive",
+        "icon": "/icons/series/logoicon_Drive.png",
+        "code": "kamen-rider-drive"
+      },
+      {
+        "name": "Kamen Rider Ghost",
+        "icon": "/icons/series/logoicon_Ghost.png",
+        "code": "kamen-rider-ghost"
+      },
+      {
+        "name": "Kamen Rider Ex-Aid",
+        "icon": "/icons/series/logoicon_Ex_Aid.png",
+        "code": "kamen-rider-ex-aid"
+      },
+      {
+        "name": "Kamen Rider Build",
+        "icon": "/icons/series/logoicon_Build.png",
+        "code": "kamen-rider-build"
+      },
+      {
+        "name": "Kamen Rider Zi-O",
+        "icon": "/icons/series/logoicon_Zio.png",
+        "code": "kamen-rider-zi-o"
+      },
+      {
+        "name": "Kamen Rider Zero-One",
+        "icon": "/icons/series/logoicon_ZeroOne.png",
+        "code": "kamen-rider-zero-one"
+      },
+      {
+        "name": "Kamen Rider Saber",
+        "icon": "/icons/series/logoicon_Saber.png",
+        "code": "kamen-rider-saber"
+      },
+      {
+        "name": "Kamen Rider Revice",
+        "icon": "/icons/series/logoicon_Revice.png",
+        "code": "kamen-rider-revice"
+      },
+      {
+        "name": "Kamen Rider Geats",
+        "icon": "/icons/series/logoicon_Geats.png",
+        "code": "kamen-rider-geats"
+      },
+      {
+        "name": "Kamen Rider Gotchard",
+        "icon": "/icons/series/logoicon_Gotchard.png",
+        "code": "kamen-rider-gotchard"
+      },
+      {
+        "name": "Kamen Rider Gavv",
+        "icon": "/icons/series/logoicon_Kamen Rider Gavv.png",
+        "code": "kamen-rider-gavv"
+      },
+      {
+        "name": "Kamen Rider Outsiders",
+        "icon": "/icons/series/default.png",
+        "code": "kamen-rider-outsiders"
+      },
+      {
+        "name": "Kamen Rider Shinobi",
+        "icon": "/icons/series/default.png",
+        "code": "kamen-rider-shinobi"
+      },
+      {
+        "name": "Kamen Rider Girls Remix",
+        "icon": "/icons/series/default.png",
+        "code": "kamen-rider-girls-remix"
+      },
+      {
+        "name": "Kamen Rider Amazons",
+        "icon": "/icons/series/default.png",
+        "code": "kamen-rider-amazons"
+      },
+      {
+        "name": "Kamen Rider Black Sun",
+        "icon": "/icons/series/default.png",
+        "code": "kamen-rider-black-sun"
+      },
+      {
+        "name": "Kamen Rider The Movie",
+        "icon": "/icons/series/default.png",
+        "code": "kamen-rider-the-movie"
+      },
+      {
+        "name": "Kamen Rider G",
+        "icon": "/icons/series/default.png",
+        "code": "kamen-rider-g"
+      },
+      {
+        "name": "Kamen Rider Zeztz",
+        "icon": "/icons/series/logoicon_zeztz-14.png",
+        "code": "kamen-rider-zeztz"
+      }
+    ],
+    "code": "kamen-rider"
+  },
+  {
+    "name": "Ultraman",
+    "icon": "/icons/series/default.png",
+    "series": [
+      {
+        "name": "Ultra Q",
+        "icon": "/icons/series/default.png",
+        "code": "ultra-q"
+      },
+      {
+        "name": "Ultraman",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman"
+      },
+      {
+        "name": "Ultraseven",
+        "icon": "/icons/series/default.png",
+        "code": "ultraseven"
+      },
+      {
+        "name": "The Return of Ultraman",
+        "icon": "/icons/series/default.png",
+        "code": "the-return-of-ultraman"
+      },
+      {
+        "name": "Ultraman Ace",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-ace"
+      },
+      {
+        "name": "Ultraman Taro",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-taro"
+      },
+      {
+        "name": "Ultraman Leo",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-leo"
+      },
+      {
+        "name": "Ultraman 80",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-80"
+      },
+      {
+        "name": "Ultraman Tiga",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-tiga"
+      },
+      {
+        "name": "Ultraman Dyna",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-dyna"
+      },
+      {
+        "name": "Ultraman Gaia",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-gaia"
+      },
+      {
+        "name": "Ultraman Cosmos",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-cosmos"
+      },
+      {
+        "name": "Ultraman Nexus",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-nexus"
+      },
+      {
+        "name": "Ultraman Max",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-max"
+      },
+      {
+        "name": "Ultraman Mebius",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-mebius"
+      },
+      {
+        "name": "Ultraseven X",
+        "icon": "/icons/series/default.png",
+        "code": "ultraseven-x"
+      },
+      {
+        "name": "Ultra Galaxy Mega Monster Battle",
+        "icon": "/icons/series/default.png",
+        "code": "ultra-galaxy-mega-monster-battle"
+      },
+      {
+        "name": "Ultraman Retsuden",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-retsuden"
+      },
+      {
+        "name": "Ultraman Ginga",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-ginga"
+      },
+      {
+        "name": "Ultraman Ginga S",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-ginga-s"
+      },
+      {
+        "name": "Ultraman X",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-x"
+      },
+      {
+        "name": "Ultraman Orb",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-orb"
+      },
+      {
+        "name": "Ultraman Geed",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-geed"
+      },
+      {
+        "name": "Ultraman R/B",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-r-b"
+      },
+      {
+        "name": "Ultraman Taiga",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-taiga"
+      },
+      {
+        "name": "Ultraman Z",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-z"
+      },
+      {
+        "name": "Ultraman Trigger",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-trigger"
+      },
+      {
+        "name": "Ultraman Decker",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-decker"
+      },
+      {
+        "name": "Ultraman Blazar",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-blazar"
+      },
+      {
+        "name": "Ultraman Arc",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-arc"
+      },
+      {
+        "name": "Ultraman Omega",
+        "icon": "/icons/series/default.png",
+        "code": "ultraman-omega"
+      }
+    ],
+    "code": "ultraman"
+  },
+  {
+    "name": "Garo",
+    "icon": "/icons/series/default.png",
+    "series": [
+      {
+        "name": "Garo",
+        "icon": "/icons/series/default.png",
+        "code": "garo"
+      },
+      {
+        "name": "Garo Special Beast of the Demon Night",
+        "icon": "/icons/series/default.png",
+        "code": "garo-special-beast-of-the-demon-night"
+      },
+      {
+        "name": "Garo Makai Senki",
+        "icon": "/icons/series/default.png",
+        "code": "garo-makai-senki"
+      },
+      {
+        "name": "Garo Yami o Terasu Mono",
+        "icon": "/icons/series/default.png",
+        "code": "garo-yami-o-terasu-mono"
+      },
+      {
+        "name": "Garo Makai no Hana",
+        "icon": "/icons/series/default.png",
+        "code": "garo-makai-no-hana"
+      },
+      {
+        "name": "Garo Gold Storm Sho",
+        "icon": "/icons/series/default.png",
+        "code": "garo-gold-storm-sho"
+      },
+      {
+        "name": "Garo Makai Retsuden",
+        "icon": "/icons/series/default.png",
+        "code": "garo-makai-retsuden"
+      },
+      {
+        "name": "Zero Dragon Blood",
+        "icon": "/icons/series/default.png",
+        "code": "zero-dragon-blood"
+      },
+      {
+        "name": "Kami no Kiba Jinga",
+        "icon": "/icons/series/default.png",
+        "code": "kami-no-kiba-jinga"
+      }
+    ],
+    "code": "garo"
+  },
+  {
+    "name": "Godzilla",
+    "icon": "/icons/series/default.png",
+    "series": [
+      {
+        "name": "Godzilla",
+        "icon": "/icons/series/default.png",
+        "code": "godzilla"
+      }
+    ],
+    "code": "godzilla"
+  },
+  {
+    "name": "SpiderMan",
+    "icon": "/icons/series/default.png",
+    "series": [
+      {
+        "name": "SpiderMan 1978",
+        "icon": "/icons/series/default.png",
+        "code": "spiderman-1978"
+      }
+    ],
+    "code": "spiderman"
+  },
+  {
+    "name": "Wingman",
+    "icon": "/icons/series/default.png",
+    "series": [
+      {
+        "name": "Wingman",
+        "icon": "/icons/series/default.png",
+        "code": "wingman"
+      }
+    ],
+    "code": "wingman"
+  },
+  {
+    "name": "Metal Hero",
+    "icon": "/icons/series/default.png",
+    "series": [
+      {
+        "name": "Space Sheriffs",
+        "icon": "/icons/series/default.png",
+        "code": "space-sheriffs"
+      },
+      {
+        "name": "Sekai ninja sen Jiraiya",
+        "icon": "/icons/series/default.png",
+        "code": "sekai-ninja-sen-jiraiya"
+      },
+      {
+        "name": "VR Troppers",
+        "icon": "/icons/series/default.png",
+        "code": "vr-troppers"
+      },
+      {
+        "name": "Tetsuwan Tantei Robotack",
+        "icon": "/icons/series/default.png",
+        "code": "tetsuwan-tantei-robotack"
+      },
+      {
+        "name": "Beetle Robot Kabutack",
+        "icon": "/icons/series/default.png",
+        "code": "beetle-robot-kabutack"
+      },
+      {
+        "name": "Special Rescue Exceedraft",
+        "icon": "/icons/series/default.png",
+        "code": "special-rescue-exceedraft"
+      },
+      {
+        "name": "Super Rescue Solbrain",
+        "icon": "/icons/series/default.png",
+        "code": "super-rescue-solbrain"
+      },
+      {
+        "name": "Special Rescue Police Winspector",
+        "icon": "/icons/series/default.png",
+        "code": "special-rescue-police-winspector"
+      },
+      {
+        "name": "The Mobile Cop Jiban",
+        "icon": "/icons/series/default.png",
+        "code": "the-mobile-cop-jiban"
+      },
+      {
+        "name": "Choujinki Metalder",
+        "icon": "/icons/series/default.png",
+        "code": "choujinki-metalder"
+      },
+      {
+        "name": "MegaBeast Investigator Juspion",
+        "icon": "/icons/series/default.png",
+        "code": "megabeast-investigator-juspion"
+      }
+    ],
+    "code": "metal-hero"
+  },
+  {
+    "name": "Local Hero",
+    "icon": "/icons/series/default.png",
+    "series": [
+      {
+        "name": "Japan",
+        "icon": "/icons/series/default.png",
+        "code": "japan"
+      },
+      {
+        "name": "France",
+        "icon": "/icons/series/default.png",
+        "code": "france"
+      },
+      {
+        "name": "China",
+        "icon": "/icons/series/default.png",
+        "code": "china"
+      }
+    ],
+    "code": "local-hero"
+  },
+  {
+    "name": "Project RED",
+    "icon": "/icons/series/default.png",
+    "code": "project-red",
+    "series": [
+      {
+        "name": "Super Space Sheriff Gavan Infinity",
+        "icon": "/icons/series/default.png",
+        "code": "super-space-sheriff-gavan-infinity"
+      }
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TokuFONT - Tokusatsu Fonts</title>
+    <meta name="description" content="Download custom Tokusatsu fonts including Kamen Rider, Super Sentai, and more.">
+    <!-- Satoshi Font -->
+    <link href="https://fonts.cdnfonts.com/css/satoshi" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="navbar-container">
+            <img src="tokufont_logo.svg?v=2" alt="TokuFONT Logo" class="logo">
+            <span class="tagline">The ultimate collection of Tokusatsu custom fonts</span>
+        </div>
+    </header>
+
+    <main>
+        <div class="filters">
+            <input type="text" id="search-input" placeholder="Search fonts or series..." class="search-input">
+            <select id="franchise-select">
+                <option value="all">All Franchises</option>
+            </select>
+        </div>
+
+        <section id="fonts-grid" class="fonts-grid">
+            <!-- Cards will be injected here by JS -->
+        </section>
+    </main>
+
+    <!-- Overlay Modal -->
+    <dialog id="font-modal" class="modal">
+        <div class="modal-content">
+            <button class="close-btn" id="close-modal">&times;</button>
+            <div class="modal-body">
+                <div class="carousel-container">
+                    <img id="modal-image" src="" alt="Font Banner" class="carousel-image">
+                    <div class="carousel-controls" id="carousel-controls">
+                        <button id="prev-img" class="carousel-btn">&lt;</button>
+                        <button id="next-img" class="carousel-btn">&gt;</button>
+                    </div>
+                </div>
+                
+                <div class="modal-info">
+                    <h2 id="modal-title">Font Title</h2>
+                    <p id="modal-season" class="season-badge">Season Name</p>
+                    <p id="modal-author" class="author-info">By <a href="#" target="_blank" id="modal-author-link">Author</a></p>
+                    <p id="modal-description" class="description">Font description...</p>
+                    
+                    <div class="font-previewer">
+                        <select id="preview-font-select" class="preview-font-select hidden"></select>
+                        <input type="text" id="preview-input" value="The quick brown fox jumps over the lazy dog" class="preview-input">
+                        <div id="preview-custom" class="preview-text">The quick brown fox jumps over the lazy dog</div>
+                        <div class="preview-section">
+                            <span class="preview-label">Uppercase</span>
+                            <div id="preview-upper" class="preview-text">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</div>
+                        </div>
+                        <div class="preview-section">
+                            <span class="preview-label">Lowercase</span>
+                            <div id="preview-lower" class="preview-text">a b c d e f g h i j k l m n o p q r s t u v w x y z</div>
+                        </div>
+                        <div class="preview-section">
+                            <span class="preview-label">Numbers & Symbols</span>
+                            <div id="preview-numbers" class="preview-text">0 1 2 3 4 5 6 7 8 9 ! ? @ # $ % & * ()</div>
+                        </div>
+                    </div>
+
+                    <div class="download-section">
+                        <a href="#" id="official-btn" class="btn btn-primary" target="_blank">
+                            <span class="icon">★</span> Download the Font
+                        </a>
+                        <div id="direct-downloads" class="direct-downloads">
+                            <!-- Direct download buttons will be injected here -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </dialog>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "game-clear-font",
+    "title": "Game Clear Font",
+    "season_code": "kamen-rider-ex-aid",
+    "description": "Custom font for Kamen Rider Ex-Aid.",
+    "author": "Dartsgame",
+    "author_url": "https://x.com/dartsgamekz",
+    "official_source_url": "https://www.deviantart.com/dartsgamegokai/art/GameClearFONT-1328755154",
+    "main_thumbnail": "images/GameClearFontBanner.png",
+    "thumbnails": [
+      "images/GameClearFontBanner.png"
+    ],
+    "downloads": [
+      {
+        "name": "GameClearFont Windows V2",
+        "file": "font/GameClearFontV2.ttf"
+      },
+      {
+        "name": "GameClearFont Mac V2",
+        "file": "font/GameClearFont Mac V2.ttf"
+      }
+    ],
+    "zip_file": "zips/game-clear-font.zip"
+  },
+  {
+    "id": "magnumia",
+    "title": "DremStir Magnumia",
+    "season_code": "kamen-rider-geats",
+    "description": "Custom font for Kamen Rider Geats.",
+    "author": "DremStir",
+    "author_url": "https://x.com/DremStir",
+    "official_source_url": "https://x.com/DremStir/status/1569332925807693826",
+    "main_thumbnail": "images/magnum.png",
+    "thumbnails": [
+      "images/magnum.png"
+    ],
+    "downloads": [
+      {
+        "name": "Magnumia",
+        "file": "font/Magnumia.otf"
+      }
+    ]
+  },
+  {
+    "id": "boonboomfont",
+    "title": "BoonBoomFont Bakuage Sentai BoonBoomGer",
+    "season_code": "bakuage-sentai-boonboomger",
+    "description": "Custom font for Bakuage Sentai Boonboomger.",
+    "author": "AFDRYAN",
+    "author_url": "https://www.deviantart.com/afdryan",
+    "official_source_url": "https://www.deviantart.com/afdryan/art/BoonBoomFont-Bakuage-Sentai-BoonBoomGer-1019264121",
+    "main_thumbnail": "images/BoonBoomFont V1 by Afdryan FOR PERSONAL USE ONLY.png",
+    "thumbnails": [
+      "images/BoonBoomFont V1 by Afdryan FOR PERSONAL USE ONLY.png"
+    ],
+    "downloads": [
+      {
+        "name": "BoonBoonFont-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY.otf"
+      },
+      {
+        "name": "BoonBoonFont-NORMAL V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-NORMAL V1 by Afdryan FOR PERSONAL USE ONLY.otf"
+      },
+      {
+        "name": "BoonBoonFont-STRIPED V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-STRIPED V1 by Afdryan FOR PERSONAL USE ONLY.otf"
+      },
+      {
+        "name": "BoonBoonFont-STRIPED-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-STRIPED-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY.otf"
+      },
+      {
+        "name": "BoonBoonFont-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY.ttf"
+      },
+      {
+        "name": "BoonBoonFont-NORMAL V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-NORMAL V1 by Afdryan FOR PERSONAL USE ONLY.ttf"
+      },
+      {
+        "name": "BoonBoonFont-STRIPED V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-STRIPED V1 by Afdryan FOR PERSONAL USE ONLY.ttf"
+      },
+      {
+        "name": "BoonBoonFont-STRIPED-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-STRIPED-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY.ttf"
+      }
+    ],
+    "zip_file": "zips/boonboomfont.zip"
+  },
+  {
+    "id": "granute-script",
+    "title": "Granute Script Font Kamen Rider Gavv",
+    "season_code": "kamen-rider-gavv",
+    "description": "Custom font for Kamen Rider Gavv.",
+    "author": "AFDRYAN",
+    "author_url": "https://www.deviantart.com/afdryan",
+    "official_source_url": "https://www.deviantart.com/afdryan/art/Granute-Script-Font-Kamen-Rider-Gavv-1098882692",
+    "main_thumbnail": "images/Artboard 1@4x.png",
+    "thumbnails": [
+      "images/Artboard 1@4x.png",
+      "images/Artboard 1@4x.png"
+    ],
+    "downloads": [
+      {
+        "name": "Granute-Script-Reguler",
+        "file": "font/Granute-Script-Reguler.otf"
+      },
+      {
+        "name": "Granute-Script-Reguler",
+        "file": "font/Granute-Script-Reguler.ttf"
+      }
+    ],
+    "zip_file": "zips/granute-script.zip"
+  },
+  {
+    "id": "kingohger-script",
+    "title": "Ohsama Sentai King-Ohger Chikyuu Script Font",
+    "season_code": "ohsama-sentai-king-ohger",
+    "description": "Custom font for Ohsama Sentai King-Ohger.",
+    "author": "AFDRYAN",
+    "author_url": "https://www.deviantart.com/afdryan",
+    "official_source_url": "https://www.deviantart.com/afdryan/art/Ohsama-Sentai-King-Ohger-Chikyuu-Script-Font-1040352932",
+    "main_thumbnail": "images/King-Chikyuu-Script V1 by Afdryan FOR PERSONAL USE ONLY.png",
+    "thumbnails": [
+      "images/King-Chikyuu-Script V1 by Afdryan FOR PERSONAL USE ONLY.png",
+      "images/King-Chikyuu-Script V1 by Afdryan FOR PERSONAL USE ONLY.png"
+    ],
+    "downloads": [
+      {
+        "name": "King-Chikyuu-Script V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/King-Chikyuu-Script V1 by Afdryan FOR PERSONAL USE ONLY.otf"
+      },
+      {
+        "name": "King-Chikyuu-Script V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/King-Chikyuu-Script V1 by Afdryan FOR PERSONAL USE ONLY.ttf"
+      }
+    ],
+    "zip_file": "zips/kingohger-script.zip"
+  },
+  {
+    "id": "ride-chemy",
+    "title": "Ride Chemy Card Font Kamen Rider Gotchard",
+    "season_code": "kamen-rider-gotchard",
+    "description": "Custom font for Kamen Rider Gotchard.",
+    "author": "AFDRYAN",
+    "author_url": "https://www.deviantart.com/afdryan",
+    "official_source_url": "https://www.deviantart.com/afdryan/art/Ride-Chemy-Card-Font-Kamen-Rider-Gotchard-974191385",
+    "main_thumbnail": "images/ChemyCardFont V3 by Afdryan FOR PERSONAL USE ONLY.png",
+    "thumbnails": [
+      "images/ChemyCardFont V3 by Afdryan FOR PERSONAL USE ONLY.png"
+    ],
+    "downloads": [
+      {
+        "name": "ChemyCardFont V3 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/ChemyCardFont V3 by Afdryan FOR PERSONAL USE ONLY.otf"
+      },
+      {
+        "name": "ChemyCardFont V3 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/ChemyCardFont V3 by Afdryan FOR PERSONAL USE ONLY.ttf"
+      }
+    ],
+    "zip_file": "zips/ride-chemy.zip"
+  },
+  {
+    "id": "boon boom",
+    "title": "Boonbomger font",
+    "season_code": "bakuage-sentai-boonboomger",
+    "description": "Boonbomger font",
+    "author": "AFDRYAN",
+    "author_url": "https://www.deviantart.com/afdryan",
+    "official_source_url": "https://www.deviantart.com/afdryan",
+    "main_thumbnail": "images/BoonBoomFont V1 by Afdryan FOR PERSONAL USE ONLY.png",
+    "thumbnails": [
+      "images/BoonBoomFont V1 by Afdryan FOR PERSONAL USE ONLY.png"
+    ],
+    "downloads": [
+      {
+        "name": "BoonBoonFont-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY.otf"
+      },
+      {
+        "name": "BoonBoonFont-NORMAL V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-NORMAL V1 by Afdryan FOR PERSONAL USE ONLY.otf"
+      },
+      {
+        "name": "BoonBoonFont-STRIPED V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-STRIPED V1 by Afdryan FOR PERSONAL USE ONLY.otf"
+      },
+      {
+        "name": "BoonBoonFont-STRIPED-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-STRIPED-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY.otf"
+      },
+      {
+        "name": "BoonBoonFont-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY.ttf"
+      },
+      {
+        "name": "BoonBoonFont-NORMAL V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-NORMAL V1 by Afdryan FOR PERSONAL USE ONLY.ttf"
+      },
+      {
+        "name": "BoonBoonFont-STRIPED V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-STRIPED V1 by Afdryan FOR PERSONAL USE ONLY.ttf"
+      },
+      {
+        "name": "BoonBoonFont-STRIPED-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/BoonBoonFont-STRIPED-ITALIC V1 by Afdryan FOR PERSONAL USE ONLY.ttf"
+      }
+    ],
+    "zip_file": "zips/boon boom.zip"
+  },
+  {
+    "id": "saber-font",
+    "title": "Kamen Rider Saber Font",
+    "season_code": "kamen-rider-saber",
+    "description": "Custom font for Kamen Rider Saber.",
+    "author": "AFDRYAN",
+    "author_url": "https://www.deviantart.com/afdryan",
+    "official_source_url": "https://www.deviantart.com/afdryan/art/Kamen-Rider-Saber-Font-Download-Link-on-Descript-847390935",
+    "main_thumbnail": "images/SaberFont V3.1 by Afdryan FOR PERSONAL USE ONLY.png",
+    "thumbnails": [
+      "images/SaberFont V3.1 by Afdryan FOR PERSONAL USE ONLY.png",
+      "images/SaberFont V3.1 by Afdryan FOR PERSONAL USE ONLY.png"
+    ],
+    "downloads": [
+      {
+        "name": "SaberFont Rotated V3.1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/SaberFont Rotated V3.1 by Afdryan FOR PERSONAL USE ONLY.otf"
+      },
+      {
+        "name": "SaberFont V3.1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/SaberFont V3.1 by Afdryan FOR PERSONAL USE ONLY.otf"
+      },
+      {
+        "name": "SaberFont Rotated V3.1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/SaberFont Rotated V3.1 by Afdryan FOR PERSONAL USE ONLY.ttf"
+      },
+      {
+        "name": "SaberFont V3.1 by Afdryan FOR PERSONAL USE ONLY",
+        "file": "font/SaberFont V3.1 by Afdryan FOR PERSONAL USE ONLY.ttf"
+      }
+    ],
+    "zip_file": "zips/saber-font.zip"
+  },
+  {
+    "id": "progrise-key",
+    "title": "Kamen Rider Progrise Key",
+    "season_code": "kamen-rider-zero-one",
+    "description": "Progrise key",
+    "author": "iSec1234",
+    "author_url": "https://www.deviantart.com/isec1234",
+    "official_source_url": "https://www.deviantart.com/isec1234",
+    "main_thumbnail": "images/scorpionmetallic1.JPG",
+    "thumbnails": [
+      "images/kamen_rider_zero_one_progrise_font_sec_zero_one_by_isec1234_ddrpl4u-pre.jpg"
+    ],
+    "downloads": [
+      {
+        "name": "Kamen Rider Zero-One Progrise Font Sec Zero-One",
+        "file": "font/Sec Zero-One.otf"
+      }
+    ]
+  },
+  {
+    "id": "enginesoul",
+    "title": "Engine Soul Font",
+    "season_code": "engine-sentai-go-onger",
+    "description": "Engine Soul Font",
+    "author": "Technovier",
+    "author_url": "https://almarkhatype.com/",
+    "official_source_url": "https://www.dafont.com/technovier.font?text=ENGINE+SOUL",
+    "main_thumbnail": "images/Engine_Soul_(End_Ver.).webp",
+    "thumbnails": [
+      "images/loose-engine-sentai-go-onger-dx-engine-soul-1-speedor-17079674.webp"
+    ],
+    "downloads": [
+      {
+        "name": "Technovier Bold",
+        "file": "font/Techovier Bold.ttf"
+      },
+      {
+        "name": "Technovier",
+        "file": "font/Techovier .ttf"
+      },
+      {
+        "name": "Technovier BOLD",
+        "file": "font/Techovier Bold.otf"
+      }
+    ],
+    "zip_file": "zips/enginesoul.zip"
+  },
+  {
+    "id": "zyudenchi",
+    "title": "Verdena BOLD ITALIC (Native to Windows)",
+    "season_code": "engine-sentai-go-onger",
+    "description": "This is a font native to Windows. No need to install if you have Windows.",
+    "author": "",
+    "author_url": "",
+    "official_source_url": "",
+    "main_thumbnail": "images/bandai-loose-kyoryuger-capsule-toy-zyudenchi-vol-08-22-pukuptor-empty-ver-4348035334253.webp",
+    "thumbnails": [
+      "images/4carranger2.JPG"
+    ],
+    "downloads": [
+      {
+        "name": "Verdena Bold Italic",
+        "file": "font/Verdana Bold Italic.ttf"
+      }
+    ]
+  }
+]
